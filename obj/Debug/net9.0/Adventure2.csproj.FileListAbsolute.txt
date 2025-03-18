@@ -1,0 +1,14 @@
+d:\VSCode\CSharp\Adventure2\bin\Debug\net9.0\Adventure2.exe
+d:\VSCode\CSharp\Adventure2\bin\Debug\net9.0\Adventure2.deps.json
+d:\VSCode\CSharp\Adventure2\bin\Debug\net9.0\Adventure2.runtimeconfig.json
+d:\VSCode\CSharp\Adventure2\bin\Debug\net9.0\Adventure2.dll
+d:\VSCode\CSharp\Adventure2\bin\Debug\net9.0\Adventure2.pdb
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.GeneratedMSBuildEditorConfig.editorconfig
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.AssemblyInfoInputs.cache
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.AssemblyInfo.cs
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.csproj.CoreCompileInputs.cache
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.dll
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\refint\Adventure2.dll
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.pdb
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.genruntimeconfig.cache
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\ref\Adventure2.dll

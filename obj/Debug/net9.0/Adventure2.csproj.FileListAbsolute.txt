@@ -12,3 +12,4 @@ d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\refint\Adventure2.dll
 d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.pdb
 d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.genruntimeconfig.cache
 d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\ref\Adventure2.dll
+d:\VSCode\CSharp\Adventure2\obj\Debug\net9.0\Adventure2.sourcelink.json

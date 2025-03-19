@@ -79,7 +79,7 @@ class Program
         dockingBay.RoomExit = dockingBay.AddExit("south", bridge);
         storageRoom.RoomExit = storageRoom.AddExit("north", bridge);
 
-        //how to differentiate between two exits?
+        //bridge room has two exits
         bridge.RoomExit = bridge.AddExit("south", storageRoom);
         bridge.RoomExit2 = bridge.AddExit("north", dockingBay);
 
